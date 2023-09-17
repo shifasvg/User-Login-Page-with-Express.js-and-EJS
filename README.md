@@ -26,13 +26,13 @@ npm install
 To start the application locally, run the following command: npm start
 4.This will start the server, and you can access the application in your web browser at http://localhost:3000.
 
-####Usage
+###Usage
 Visit http://localhost:3000 in your web browser to interact with the application.
 
-#####Stopping the Application
+###Stopping the Application
 To stop the application, you can press Ctrl+C in the terminal where the application is running.
 
-######Contributing
+###Contributing
 If you'd like to contribute to this project, please follow these guidelines:
 
 Fork the repository on GitHub.
